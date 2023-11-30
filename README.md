@@ -15,7 +15,7 @@ The slides to this pitch are found [here](https://docs.google.com/presentation/d
 ## Demo
 | Dashboard                                                                             | Cube                                                                             | Sphere                                                                             |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|------------------------------------------------------------------------------------|
-| ![Dashboard](compGraphicsMiniProject/assets/Pic1.png) | ![Cube](compGraphicsMiniProject/assets/Pic2.png) | ![Sphere](compGraphicsMiniProject/assets/Pic3.png) |
+| ![Dashboard](assets/Pic1.png) | ![Cube](assets/Pic2.png) | ![Sphere](assets/Pic3.png) |
 
 
 ## Directory Structure
